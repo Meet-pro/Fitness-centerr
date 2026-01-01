@@ -1,5 +1,5 @@
 body{
-    background-image:url("img/bg2.jpg");
+    background-image:url("bg2.jpg");
     background-size:cover;
     height: auto;
     margin:0;
@@ -236,4 +236,5 @@ form{
 .ff{
     text-align: center;
     text-decoration: underline;
+
 }
